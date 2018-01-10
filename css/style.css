@@ -66,13 +66,14 @@ h1  {
 /** Tablet Screen **/
 
 @media screen and (min-width: 600px){
+
     .preview {
         margin-right: 1%;
-        width: 29%;
+        width: 35%;
     }
 
     .container {
-        margin-left: 5%;
+        margin-left: 15%;
         margin-right: 5%;
     }
 
@@ -80,6 +81,6 @@ h1  {
 
 @media screen and (min-width: 900px){
     .preview {
-        width: 25%;
+        width: 20%;
     }
 }
